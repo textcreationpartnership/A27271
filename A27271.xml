@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Behaviour, last speeches, confessions, and execution of the prisoners that suffered at Tyburn on Fryday the 7th of March, 1678/9 viz. Thomas Coxe and Charles Smith who were drawn thither on a hurdle for treason, Mary Augur, for murther, and Anne Atkins for a burglary ... : with a true account of their carriage and discourses to Mr. Ordinary and others, both in prison and at the place of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27271</idno>
+            <idno type="STC">Wing B1708</idno>
+            <idno type="STC">ESTC R4063</idno>
+            <idno type="EEBO-CITATION">11956030</idno>
+            <idno type="OCLC">ocm 11956030</idno>
+            <idno type="VID">51510</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51510)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 54:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Behaviour, last speeches, confessions, and execution of the prisoners that suffered at Tyburn on Fryday the 7th of March, 1678/9 viz. Thomas Coxe and Charles Smith who were drawn thither on a hurdle for treason, Mary Augur, for murther, and Anne Atkins for a burglary ... : with a true account of their carriage and discourses to Mr. Ordinary and others, both in prison and at the place of execution.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678/9 [i.e. 1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"At the request of the publisher, I have perused this sheet and do attest the truth of the contents therein. Samuel Smith, Ordinary"</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Last words.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51510:1"/>
+            <pb facs="tcp:51510:1" rendition="simple:additions"/>
+            <p>THE Behaviour, laſt Speeches, Confeſsions, AND EXECUTION Of the Priſoners that Suffered at TYBURN On Fryday the 7th of <hi>March,</hi> 1678/9.</p>
+            <p>VIZ.
+<list>
+                  <item>
+                     <hi>Thomas Coxe,</hi> and <hi>Charles Smith,</hi> Who were drawn thither on a Hurdle, for <hi>TREASON.</hi>
+                  </item>
+                  <item>
+                     <hi>Mary Augur,</hi> For Murther.</item>
+                  <item>AND <hi>Anne Atkins,</hi> For a Burglary, her Huſband be<g ref="char:EOLhyphen"/>ing hang'd for the like Offence but the very laſt Seſſions before.</item>
+               </list>
+            </p>
+            <p>With a true Account of their Carriage, and Diſcourſes to Mr. Ordinary and others, both in Priſon and at the place of Execution.</p>
+            <q>
+               <p>At the Requeſt of the Publiſher, I have peruſed this Sheet, and do Atteſt the Truth of the Contents therein.</p>
+               <bibl>
+                  <hi>Samuel Smith,</hi> Ordinary.</bibl>
+            </q>
+            <p>LICENSED, 1678/9.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>L. C.</hi> 1678/9.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:51510:2"/>
+            <pb n="3" facs="tcp:51510:2" rendition="simple:additions"/>
+            <head>The Behaviour, laſt Speeches, Con<g ref="char:EOLhyphen"/>feſſions, and Execution of the Priſoners that Suffered at <hi>Tyburn</hi> on Fryday the 7th of <hi>March,</hi> 1678/9.</head>
+            <p>AT the laſt Seſſions there were in all Nine perſons received ſentence of Death; Three men and Six women. (Not Six men and Three women, as a falſe and ſurreptitious Pamphlet, prin<g ref="char:EOLhyphen"/>ted with the Letters <hi>D. M.</hi> did lately mention; which alſo ſaid, there was Fourteen to be Tranſ<g ref="char:EOLhyphen"/>ported: and ſeveral other notorious Untruths al<g ref="char:EOLhyphen"/>moſt in every Line.) Of theſe unhappy Criminals one was reſpited for the preſent from Execution, being found by a Jury of Matrons to be quick with Childe: three other women and one man, the nature of whoſe Offences and Converſation had rendred them fitter Objects of Royal Mercy, ob<g ref="char:EOLhyphen"/>tain'd the favour of his Majeſties gratious Reprieve after Judgment.</p>
+            <p>The other Four came now to ſuffer; their Names and Crimes being as follows.</p>
+            <pb n="4" facs="tcp:51510:3"/>
+            <p>
+               <hi>Thomas Coxe</hi> and <hi>Charles Smith,</hi> each of them found guilty of Treaſon on ſeveral Indictments, both for Coyning and Counterfeiting, and alſo for Clipping of Money.</p>
+            <p>
+               <hi>Mary Augur,</hi> for Murthering her Baſtard Child; and <hi>Anne Atkins,</hi> for a Burglary, whoſe Huſband, for the like Offence, was Executed but the very laſt Seſſions, and ſhe then turn'd out of <hi>Newgate</hi> on the account of her Poverty, having ſeveral Chil<g ref="char:EOLhyphen"/>dren; but was no ſooner at liberty, but ſhe fell to her old wickedneſs; and 'tis believ'd ſeduc'd a perſon, now Condemn'd with her, but Reprieved, into this Burglary, for which ſhe ſuffered. So dif<g ref="char:EOLhyphen"/>ficult it is for people, when they are once come to make a Trade of ſin, to forſake it, though they have the ſaddeſt and moſt near related Warnings in the world to reclaim them.</p>
+            <p>
+               <hi>Coxe,</hi> in the hearing of the Ordinary, prayed very pathetically for himſelf; and being aſkt con<g ref="char:EOLhyphen"/>cerning what hopes he had of a future happy E<g ref="char:EOLhyphen"/>ſtate, he declared, That the fear of Death was much abated, and as he truſted on a ſound and firm foundation, becauſe his ſorrow for ſin was more for offending God, and grieving his Holy Spirit, than for the dread either of that momentary Puniſhment he was juſtly to ſuffer here, or even for the fear of Hell and wrath to come. Adding, that if he were to live, he reſolv'd and hoped in God's ſtrength that he ſhould never run into ſuch Extravagances as he had formerly been guilty of.
+<pb n="5" facs="tcp:51510:3" rendition="simple:additions"/>For he did not onely freely acknowledge the Crime for which he was Condemned, but ſaid, there was ſcarce any Immorality or Sin (except Murther) which in the debauch'd Courſe of his Life he had not ſtain'd and polluted his Soul with.</p>
+            <p>The Ordinary urg'd, that his Coyning counter<g ref="char:EOLhyphen"/>feit Money, was not onely a great Crime againſt the Kings Majeſty, but an abuſe to the whole Na<g ref="char:EOLhyphen"/>tion, eſpecially the poor, whoſe wants could not be ſupplyed if they offered ſuch bad Money in buy<g ref="char:EOLhyphen"/>ing; ſo that the ill influence and conſequences of his ſin in this kind, would ſurvive when he was dead, and the fraud he had knowingly put upon others, muſt needs in the loſs or deceit, circulate to the prejudice of many innocent people. He replyed, that for that very conſideration, his penitent grief was ſo much the greater; and being told, that he could not repent ſincerely, if he made not reſtitu<g ref="char:EOLhyphen"/>tion to his power, to ſuch whom he had defrauded, He profeſſed he would do all he could poſſibly on that account, by making diſtribution as far as able to the poor, becauſe he knew not whom he had wronged in particular, nor how to ſend to any ſuch. He expreſſed much grief, that he had omitted to obſerve the Lords day, and that he went not to the publick Worſhip; as alſo, that he neglected to pray Morning and Evening, for which remiſneſs, he con<g ref="char:EOLhyphen"/>ceived the Lord juſtly left him to the temptations of bad Company, and in particular to be acquaint<g ref="char:EOLhyphen"/>ed
+<pb n="6" facs="tcp:51510:4"/>with a perſon, who drew him to the crime of Coyning, which he cloſed with, on a lewd princi<g ref="char:EOLhyphen"/>ple, not being content with an honeſt Trade, <hi>viz.</hi> a Gun-ſmith, which he well ſubſiſted by, being a ſingle Man, but made haſt to ſnatch at unlawful gain, that he might be at higher expences to grati<g ref="char:EOLhyphen"/>fie his Luſts, which he the rather acknowledged, that it might be a warning to all others.</p>
+            <p>
+               <hi>Smith,</hi> the other Goyner of falſe Money, was well educated, and it grieved him that he had not anſwered thoſe good Inſtructions which his Parents gave him. He was put forth in Apprentiſhip to a Chandler, after he came to his own diſpoſal, he loſt the government of himſelf, for he profan'd the Lords day, which he ſaid was occaſioned by neg<g ref="char:EOLhyphen"/>lecting to repair to Gods publick Service, becauſe he thought out of the pride of his heart, that his cloaths were not fine enough, ſo natural it is for one ſin to beget another.</p>
+            <p>He bewail'd himſelf as a great ſinner, and in par<g ref="char:EOLhyphen"/>ticular very much lamented the Crime for which he was Condemned, which he ſaid he ingaged in, out of a covetous diſpoſition, but made not ſo much gain by it as ſome others; and that he had a reſolution to deſiſt from that wicked practiſe, not becauſe it anſwered not his expectation of profit, but rather for the regret and trouble which he had in his Conſcience concerning proceeding in it. He ſaid that bad acquaintance firſt inticed him into it, and that he was juſtly by God left to the temptati<g ref="char:EOLhyphen"/>on,
+<pb n="7" facs="tcp:51510:4" rendition="simple:additions"/>ſince he had neglected daily to guard himſelf by Prayer. He wiſht he had took the meaneſt law<g ref="char:EOLhyphen"/>ful imployments, rather than ſo hainouſly tranſgre<g ref="char:EOLhyphen"/>ſed againſt the Kings Majeſty, and the Law of the Nation. But the Lord he ſaid was righteous, in diſcovering his Crime, becauſe he had lived ſe<g ref="char:EOLhyphen"/>curely in committing other ſins; for had he not been apprehended as he was, there was provided for him an honeſt and creditable imployment. But (ſaid he) the Lord is juſt in cutting me off in the prime of my years, that I might not proceed in a courſe of Iniquity; and if his Divine Majeſty ſhall be gratiouſly pleaſed to ſanctifie this ſtroke of death on my body, to bring me thereby to Re<g ref="char:EOLhyphen"/>pentance, I ſhall not dread to drink of that bit<g ref="char:EOLhyphen"/>ter cup, as believing the Lord will order it to my eternal happineſs.——He praid for himſelf very well in the Ordinaries hearing, and being queſtioned what hopes he had of Salvation, and on what foun<g ref="char:EOLhyphen"/>dation the ſame were grounded, he made ſuch judi<g ref="char:EOLhyphen"/>cious anſwers, in a diſtinct difference of true Faith and Repentance from the falſe, as the Ordinary was well ſatisfied with the ſame, and doth verily be<g ref="char:EOLhyphen"/>lieve, that his endeavours with him were bleſſed, to bring him as a Convert to God.</p>
+            <p>As for <hi>Mary Augur,</hi> ſhe was very weak in bo<g ref="char:EOLhyphen"/>dy, not able to come on the Lords day in the af<g ref="char:EOLhyphen"/>ternoon into the Chappel; but the Ordinary ſeve<g ref="char:EOLhyphen"/>ral times attended her in her Chamber, and gave her many ſerious Exhortations: but her condition,
+<pb n="8" facs="tcp:51510:5"/>
+               <hi>&amp;c.</hi> very much obſtructed the good effects he hoped for from ſuch his pains, ſo that we can give little farther account of her.</p>
+            <p>The other Woman wept bitterly, and very often, and ſeemed to be penitent for her ſins, not deny<g ref="char:EOLhyphen"/>ing the Crime for which he ſuffered, but ſeemed to have been bred up in a looſe courſe of life, and very ignorant of the Myſteries of Religion, but the Ordinary took conſiderable pains to inſtruct her therein, and it is charitably hoped God might bleſs his endeavours towards her.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
